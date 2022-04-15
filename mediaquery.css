@@ -1,0 +1,30 @@
+
+
+@media screen and (max-width: 798px) {
+    .nav-item {
+        display: block;
+        background-color: teal;
+        width: 100%;
+    }
+    body {
+        background-color: black;
+    }
+
+    .center {
+        background-color: teal;
+    }
+
+    footer {
+        background-color: teal;
+    }
+.me {
+    position: sticky;
+}
+}
+
+@media screen and (max-width: 1024px) {
+    .nav-item {
+        display: block;
+        width: 100%;
+    }
+}
